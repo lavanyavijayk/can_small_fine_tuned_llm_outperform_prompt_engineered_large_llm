@@ -151,7 +151,7 @@ pip install google-genai
 from huggingface_hub import login
 login(token="YOUR_HUGGINGFACE_TOKEN")
 
-API_KEY = "YOUR_GEMINI_API_KEY"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 ```
 
 ---
